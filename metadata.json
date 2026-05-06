@@ -1,0 +1,9 @@
+{
+  "name": "CookBuddy AI",
+  "description": "Smart AI-powered culinary companion for fridge scanning, personalized meal planning, and interactive cooking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
